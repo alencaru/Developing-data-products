@@ -13,8 +13,8 @@ Download the two main data files:
 - **tprice.csv**
 Both of them are in the repo
 
-download the ui.r and the server.R.
----
+Download the **ui.r** and the **server.R** scripts.
+
 
 How to use the app.
 
@@ -28,4 +28,4 @@ On the right side you will see your choices and a table with three colunms.
 - second colunm is **price of gas per litre**
 - third colunm is **the amout of cache you'll spend in each country to drive the km range you want**.
 
----
+
