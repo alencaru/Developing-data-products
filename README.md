@@ -6,7 +6,7 @@ That is my first app done with shiny.
 ---
 If you want run this application you shuld first:
 
-Have the shiny installed in your R environment,
+Install shiny in your R environment,
 
 Download the two main data files:
 - tcar.csv
