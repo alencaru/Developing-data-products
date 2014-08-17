@@ -14,3 +14,18 @@ Download the two main data files:
 Both of them are in the repo
 
 download the ui.r and the server.R.
+---
+
+How to use the app.
+
+At the left side bar you will see three data input types:
+- Kilometer you wanna drive. This is a integer input.
+- Box with a list of cars you can drive. 
+- A button to submit your choices.
+
+At the right side you will see your choices and a table with three colunms.
+- first colunm is 'country name'
+- second colunm is 'price of gas per litre'
+- third colunm is 'the amout of cache you'll spend in each country to drive the km range you want'.
+
+---
