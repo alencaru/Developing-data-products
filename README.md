@@ -1,7 +1,7 @@
 Developing-data-products
 ========================
 
-That is my first app done with shiny.
+That is my first app made with shiny.
 
 ---
 If you want run this application you shuld first:
