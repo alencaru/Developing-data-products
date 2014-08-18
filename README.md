@@ -28,6 +28,8 @@ On the right side you will see your choices and a table with three columns.
 - second column is **price of gas per litre**
 - third column is **the amout of cache you'll spend in each country to drive the km range you want**.
 
-***Code explanation
+---
+
+**Code explanation**
 
 In the **server.R** file the main function (called *myfunction()*) is to get the km value input and the input car chosen. Then perform a calculation based in fuel consumption of each car and gas price in some contries.
