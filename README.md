@@ -4,7 +4,7 @@ Developing-data-products
 That is my first app made with shiny.
 
 ---
-If you want run this application you shuld first:
+If you want run this application you should first:
 
 Install shiny in your R environment,
 
